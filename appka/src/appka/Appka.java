@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author Stanislav Vyhlídal
  */
 public class Appka {
-
+//zkouska editu trolololo
   
  public static void main(String[] args)  {
      int cislo1=0;
