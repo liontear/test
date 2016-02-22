@@ -23,6 +23,7 @@ public class Appka {
      
      cislo=sc.nextInt(); 
      String []pole = new String[cislo];
+     //zapis do textaku
      try (BufferedWriter zapis = new BufferedWriter(new FileWriter("hry.txt",true)))
      {
          for (int i=0;i<pole.length;i++) 
